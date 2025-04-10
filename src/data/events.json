@@ -1,0 +1,338 @@
+[
+    {
+        "title": "MADE Classroom: The Great Arduino Ultrasonic Glow-Off",
+        "priority": 0,
+        "description": "Step into the exciting world of Arduino and unleash your creativity in this beginner-friendly workshop!",
+        "details": "Step into the exciting world of Arduino and unleash your creativity in this beginner-friendly workshop!",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F923569893%2F1033925900103%2F1%2Foriginal.20241227-002915?auto=format%2Ccompress&q=75&sharp=10&s=dfddaa399caabf59950bfe23bd07fca4",
+        "link": "https://www.eventbrite.com/e/made-classroom-the-great-arduino-ultrasonic-glow-off-tickets-1011710843367",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-01-11T09:30:00",
+                "utc": "2025-01-11T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-01-11T11:00:00",
+                "utc": "2025-01-11T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Animation in Games",
+        "priority": 0,
+        "description": "How do game developers make things look like they're alive through movement? To find out, we'll both learn and use animation techniques!",
+        "details": "How do game developers make things look like they're alive through movement? To find out, we'll both learn and use animation techniques!",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F844542169%2F1033925900103%2F1%2Foriginal.20240907-225631?auto=format%2Ccompress&q=75&sharp=10&s=44de47f93f056d5d33ca1c504f4ac84f",
+        "link": "https://www.eventbrite.com/e/made-classroom-animation-in-games-tickets-1011710853397",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-01-18T09:30:00",
+                "utc": "2025-01-18T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-01-18T11:00:00",
+                "utc": "2025-01-18T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Storytelling in Games",
+        "priority": 0,
+        "description": "Story can be a really compelling component in video games. Discuss what makes up a story and then make an interactive one! Ages 8 to 13.",
+        "details": "Story can be a really compelling component in video games. Discuss what makes up a story and then make an interactive one! Ages 8 to 13.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F844545799%2F1033925900103%2F1%2Foriginal.20240907-230951?auto=format%2Ccompress&q=75&sharp=10&s=c565de36b362ad21837944366fb6f6a1",
+        "link": "https://www.eventbrite.com/e/made-classroom-storytelling-in-games-tickets-1011710863427",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-01-25T09:30:00",
+                "utc": "2025-01-25T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-01-25T11:00:00",
+                "utc": "2025-01-25T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Game Critique for Kids",
+        "priority": 0,
+        "description": "Did you know that you can learn interactive design by playing video games? We teach kids how in this short 1.5 hour long workshop!",
+        "details": "Did you know that you can learn interactive design by playing video games? We teach kids how in this short 1.5 hour long workshop!",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F841084039%2F1033925900103%2F1%2Foriginal.20240904-044756?auto=format%2Ccompress&q=75&sharp=10&s=2e23f434df536c22fdb16cc1d1cda338",
+        "link": "https://www.eventbrite.com/e/made-classroom-game-critique-for-kids-tickets-1126375442269",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-01T09:30:00",
+                "utc": "2025-02-01T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-01T11:00:00",
+                "utc": "2025-02-01T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Character Design",
+        "priority": 0,
+        "description": "Learn the basics of character design and create your own characters in this class! For ages 8 to 13.",
+        "details": "Learn the basics of character design and create your own characters in this class! For ages 8 to 13.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F862294339%2F1033925900103%2F1%2Foriginal.20240930-053306?auto=format%2Ccompress&q=75&sharp=10&s=464c92049bc3ba0d5d352f1a9edb6d28",
+        "link": "https://www.eventbrite.com/e/made-classroom-character-design-tickets-1126376184489",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-08T09:30:00",
+                "utc": "2025-02-08T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-08T11:00:00",
+                "utc": "2025-02-08T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Perspective Drawing",
+        "priority": 0,
+        "description": "Learn how to draw objects that pop out of the page--on paper and then on a computer! For ages 8 to 13.",
+        "details": "Learn how to draw objects that pop out of the page--on paper and then on a computer! For ages 8 to 13.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F844535309%2F1033925900103%2F1%2Foriginal.20240907-223429?auto=format%2Ccompress&q=75&sharp=10&s=ced215dcaa1af5559d70b5602f3da40f",
+        "link": "https://www.eventbrite.com/e/made-classroom-perspective-drawing-tickets-1126375472359",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-15T09:30:00",
+                "utc": "2025-02-15T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-15T11:00:00",
+                "utc": "2025-02-15T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: An Analysis of Gaming Peripherals",
+        "priority": 0,
+        "description": "Learn about a variety of peripherals throughout video gaming history. Try them out and discuss how they affected game design decisions!",
+        "details": "Learn about a variety of peripherals throughout video gaming history. Try them out and discuss how they affected game design decisions!",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F844400429%2F1033925900103%2F1%2Foriginal.20240907-170842?auto=format%2Ccompress&q=75&sharp=10&s=592174b4811b968edde06ce558ba0747",
+        "link": "https://www.eventbrite.com/e/made-classroom-an-analysis-of-gaming-peripherals-tickets-1126375482389",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-22T09:30:00",
+                "utc": "2025-02-22T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-22T11:00:00",
+                "utc": "2025-02-22T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Computer Graphics 101",
+        "priority": 0,
+        "description": "How do you make a computer draw pictures? Our teachers walk through how programmers create pictures with math and code! Ages 8 to 13.",
+        "details": "How do you make a computer draw pictures? Our teachers walk through how programmers create pictures with math and code! Ages 8 to 13.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F844537639%2F1033925900103%2F1%2Foriginal.20240907-224229?auto=format%2Ccompress&q=75&sharp=10&s=b390481350274d6bfe567804b3385b82",
+        "link": "https://www.eventbrite.com/e/made-classroom-computer-graphics-101-tickets-1126375492419",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-01T09:30:00",
+                "utc": "2025-03-01T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-01T11:00:00",
+                "utc": "2025-03-01T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Forum: Tim Thompson \"Space Palette - a Visual Music Instrument\"",
+        "priority": 0,
+        "description": "Join us for a conversation with Tim Thompson, software engineer, musician, and interactive installation artist.",
+        "details": "Join us for a conversation with Tim Thompson, software engineer, musician, and interactive installation artist.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F961903533%2F1033925900103%2F1%2Foriginal.20250216-200451?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00935606060606&fp-y=0.00568773234201&s=e8b41c2807f40f7bc836e34c79d7bd8e",
+        "link": "https://www.eventbrite.com/e/made-forum-tim-thompson-space-palette-a-visual-music-instrument-tickets-1250263344319?aff=oddtdtcreator",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-06T18:00:00",
+                "utc": "2025-03-07T02:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-06T20:00:00",
+                "utc": "2025-03-07T04:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Game Critique for Kids",
+        "priority": 0,
+        "description": "Did you know that you can learn interactive design by playing video games? We teach kids how in this short 1.5 hour long workshop! 8 to 13.",
+        "details": "Did you know that you can learn interactive design by playing video games? We teach kids how in this short 1.5 hour long workshop! 8 to 13.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F928280603%2F1033925900103%2F1%2Foriginal.20250106-024542?auto=format%2Ccompress&q=75&sharp=10&s=99b8ef295f9593e8d11ee721d0097f9c",
+        "link": "https://www.eventbrite.com/e/made-classroom-game-critique-for-kids-tickets-1126375502449",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-08T09:30:00",
+                "utc": "2025-03-08T17:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-08T11:00:00",
+                "utc": "2025-03-08T19:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Audio in Games",
+        "priority": 0,
+        "description": "This class explores how audio in video games is stored and created. For ages 8 to 13.",
+        "details": "This class explores how audio in video games is stored and created. For ages 8 to 13.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F841083149%2F1033925900103%2F1%2Foriginal.20240904-044533?auto=format%2Ccompress&q=75&sharp=10&s=29c4d4ba9c58b23d2d463fc5eb180e11",
+        "link": "https://www.eventbrite.com/e/made-classroom-audio-in-games-tickets-1126375452299",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-15T09:30:00",
+                "utc": "2025-03-15T16:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-15T11:00:00",
+                "utc": "2025-03-15T18:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "GDC 2025",
+        "priority": 0,
+        "description": "Welcome to GDC 2025. Your Journey Starts Here. Ready to connect the world through games? The Game Developers Conference (GDC) 2025 is your ultimate power-up! From March 17-21, dive into game-changing sessions, breakthrough tech, and endless networking with top creators from every corner of the globe. Whether you're gearing up to launch the next hit or leveling up your career, GDC is where we will shape the future of games—together.",
+        "details": "Welcome to GDC 2025. Ready to connect the world through games? The Game Developers Conference (GDC) 2025 is your ultimate power-up! From March 17-21, dive into game-changing sessions, breakthrough tech, and endless networking with top creators from every corner of the globe. Whether you're gearing up to launch the next hit or leveling up your career, GDC is where we will shape the future of games—together.",
+        "image": "https://gdconf.com/sites/default/files/gdc_social_share.png",
+        "link": "https://gdconf.com/",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-17T09:00:00",
+                "utc": "2025-03-17T16:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-21T18:00:00",
+                "utc": "2025-03-22T01:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "GDC Nights - Monday",
+        "priority": 0,
+        "description": "Looking for the secret level? We've got your ticket to an epic adventure with GDC Nights! Join us on Monday in Moscone’s West Hall after the conference winds down for GDC’s first official public evening event. MADE will be hosting trivia, so come test your gaming knowledge while making meaningful connections with the world’s best game developers!",
+        "details": "Looking for the secret level? We've got your ticket to an epic adventure with GDC Nights! Join us on Monday in Moscone’s West Hall after the conference winds down for GDC’s first official public evening event. MADE will be hosting trivia, so come test your gaming knowledge while making meaningful connections with the world’s best game developers!",
+        "image": "https://gdconf.com/sites/default/files/GDC25_Nights_Logo_4C%20copy.png",
+        "link": "https://gdconf.com/gdc-nights",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-17T18:30:00",
+                "utc": "2025-03-18T01:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-17T22:00:00",
+                "utc": "2025-03-18T05:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "Super Awesome Event Tonight",
+        "priority": 0,
+        "description": "This is my event",
+        "details": "This is my event",
+        "image": "https://placehold.co/600x400",
+        "link": "https://placehold.co/600x400",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-27T00:27",
+                "utc": "2025-02-27T08:27:00.000Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-02-28T00:27",
+                "utc": "2025-02-28T08:27:00.000Z"
+            }
+        }
+    },
+    {
+        "title": "GDC Nights - Thursday",
+        "priority": 0,
+        "description": "Looking for the secret level? We've got your ticket to an epic adventure with GDC Nights! Join us on Thursday in Moscone’s West Hall after the conference winds down for GDC’s first official public evening event. MADE will be hosting trivia, so come test your gaming knowledge while making meaningful connections with the world’s best game developers!",
+        "details": "Looking for the secret level? We've got your ticket to an epic adventure with GDC Nights! Join us on Thursday in Moscone’s West Hall after the conference winds down for GDC’s first official public evening event. MADE will be hosting trivia, so come test your gaming knowledge while making meaningful connections with the world’s best game developers!",
+        "image": "https://gdconf.com/sites/default/files/GDC25_Nights_Logo_4C%20copy.png",
+        "link": "https://gdconf.com/gdc-nights",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-20T18:30:00",
+                "utc": "2025-03-21T01:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-20T22:00:00",
+                "utc": "2025-03-21T05:00:00Z"
+            }
+        }
+    },
+    {
+        "title": "MADE Classroom: Storytelling in Games",
+        "priority": 0,
+        "description": "Story can be a really compelling component in video games. Discuss what makes a story and then make an interactive one! Ages 8 to 13.",
+        "details": "Story can be a really compelling component in video games. Discuss what makes a story and then make an interactive one! Ages 8 to 13.",
+        "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F844545799%2F1033925900103%2F1%2Foriginal.20240907-230951?auto=format%2Ccompress&q=75&sharp=10&s=c565de36b362ad21837944366fb6f6a1",
+        "link": "https://www.eventbrite.com/e/made-classroom-storytelling-in-games-tickets-1126375532539",
+        "recurring": false,
+        "time": {
+            "start": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-22T09:30:00",
+                "utc": "2025-03-22T16:30:00Z"
+            },
+            "end": {
+                "timezone": "America/Los_Angeles",
+                "local": "2025-03-22T11:00:00",
+                "utc": "2025-03-22T18:00:00Z"
+            }
+        }
+    }
+]
